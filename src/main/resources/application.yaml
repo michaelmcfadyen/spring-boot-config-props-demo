@@ -1,0 +1,6 @@
+acme:
+  list:
+    - name: my name
+      description: my description
+    - name: another name
+      description: another description
